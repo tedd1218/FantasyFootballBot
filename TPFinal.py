@@ -1,5 +1,5 @@
 #################################################
-# TP1.py
+# TPFinal.py
 # 
 # Your name: Tedd
 # Your andrew id: tyjung
@@ -618,15 +618,6 @@ def appStarted(app):
                             "D-", "F+", "F", "F-"]
 
 runApp(width=800, height=600)
-
-#################################################
-# Tester Functions
-#################################################
-
-# print(takePositionInput())
-# takeInputs()
-# csvReader()
-# runFreddyFractalViewer()
 
 
     
